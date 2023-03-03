@@ -17,7 +17,7 @@ func TestGetRegion(t *testing.T) {
 		{
 			"London",
 			args{"lon06"},
-			"lon",
+			"lon1",
 			false,
 		},
 		{
